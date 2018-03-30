@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/private/tmp/asdf/ex02'
+let g:netrw_dirhist_2='/nfs/2017/y/ytuz/projects/php/d05/ex06'
+let g:netrw_dirhist_3='/nfs/2017/y/ytuz/projects/ft_ls/libftprintf'
+let g:netrw_dirhist_4='/nfs/2017/y/ytuz/.vim'
+let g:netrw_dirhist_5='/nfs/2017/y/ytuz/projects/21sh/index.sh'
+let g:netrw_dirhist_6='/nfs/2017/y/ytuz/projects/21sh/ft_cd'
