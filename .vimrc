@@ -6,4 +6,3 @@ syntax off
 set nohlsearch
 set ruler
 set noswapfile
-set autowriteall
